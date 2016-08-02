@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "license": "ISC",
+  "main": "simpleNODEserver.js",
+  "dependencies": {
+    "lodash": "^4.14.1",
+    "moment": "^2.14.1",
+    "nodemon": "^1.10.0"
+  }
+}
